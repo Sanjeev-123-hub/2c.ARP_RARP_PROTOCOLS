@@ -99,7 +99,10 @@ while True:
 ## Client - RARP:
 
 <img width="435" height="159" alt="image" src="https://github.com/user-attachments/assets/2574b435-b09f-41d2-8638-998fbd5aa2f7" />
+
+
 ## Server - RARP:
+
 
 <img width="418" height="141" alt="image" src="https://github.com/user-attachments/assets/8efdd387-0f9c-4fd8-9ebf-947d05050587" />
 

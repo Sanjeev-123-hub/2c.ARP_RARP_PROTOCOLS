@@ -53,8 +53,12 @@ while True:
 ## OUPUT - ARP
 ## Client - ARP:
 
+
 <img width="428" height="143" alt="image" src="https://github.com/user-attachments/assets/bb674651-a3ac-4a27-9752-a1a12324e7f5" />
+
+
 ## Server - ARP:
+
 
 <img width="428" height="143" alt="image" src="https://github.com/user-attachments/assets/cecb456d-c826-47b5-8739-15358fffabab" />
 
